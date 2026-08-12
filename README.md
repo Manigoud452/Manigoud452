@@ -30,7 +30,7 @@
     <td align="center"><a href="#" target="_blank"><img src="https://cdn.simpleicons.org/discord/5865F2" width="55" height="55" alt="Discord"/></a><br/>Discord</td>
     <td align="center"><a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="55" height="55" alt="Portfolio"/></a><br/>Portfolio</td>
     <td align="center"><a href="#" target="_blank"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="55" height="55" alt="Kaggle"/></a><br/>Kaggle</td>
-    <td align="center"><a href="https://github.com/Manigoud452/Manigoud452/blob/main/ManideepGoud_InternshalaResume.pdf" target="_blank"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="55" height="55" alt="Resume"/></a><br/>Resume</td>
+    <td align="center"><a href="https://github.com/Manigoud452/Manigoud452/blob/main/ManideepGoud_InternshalaResume.pdf" target="_blank"><img src="https://img.icons8.com/?size=100&id=115635&format=png&color=000000" width="55" height="55" alt="Resume"/></a><br/>Resume</td>
   </tr>
 </table>
 
