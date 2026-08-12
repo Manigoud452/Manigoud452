@@ -44,7 +44,6 @@
 <div align="center">
 <table>
   <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/openai/412991" width="55" height="55" alt="OpenAI"/><br/>OpenAI</td>
     <td align="center"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="55" height="55" alt="Gemini"/><br/>Gemini</td>
     <td align="center"><img src="https://cdn.simpleicons.org/claude/D97757" width="55" height="55" alt="Claude"/><br/>Claude</td>
   </tr>
