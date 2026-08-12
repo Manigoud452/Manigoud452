@@ -22,7 +22,7 @@
 <table>
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/kuni-manideep-goud-930a12365" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55" height="55" alt="LinkedIn"/></a><br/>LinkedIn</td>
-    <td align="center"><a href="https://github.com/Manigoud452" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/></a><br/>GitHub</td>
+    <td align="center"><a href="https://github.com/Manigoud452" target="_blank"><img src="https://img.icons8.com/?size=100&id=62856&format=png&color=000000" width="55" height="55" alt="GitHub"/></a><br/>GitHub</td>
     <td align="center"><a href="mailto:goudmanideep14@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="55" height="55" alt="Email"/></a><br/>Email</td>
     <td align="center"><a href="https://instagram.com/manigoud452" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="55" height="55" alt="Instagram"/></a><br/>Instagram</td>
   </tr>
